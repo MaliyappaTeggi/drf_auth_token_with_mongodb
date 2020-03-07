@@ -103,16 +103,3 @@ ENV/
 
 # Cache
 cache/*
-
-# Node Modules
-node_modules/
-
-webpack-stats*.json
-backend/assets/bundles/
-backend/staticfiles/
-celerybeat.pid
-.installed
-backend/backend/staticfiles/
-backend/cache/
-backups/
-backend/media/
